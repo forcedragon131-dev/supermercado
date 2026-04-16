@@ -2,7 +2,9 @@
 
 ## Integrantes
 Juan Jose Loaiza Gutierrez
+
 Willfran Alexander Castro Muñoz
+
 Juan Jose Pinzon Hernandez
 ## Responsabilidades
 - Integrante 1,2,3: configuración inicial del proyecto y conexión a base de datos.
