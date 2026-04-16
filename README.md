@@ -1,16 +1,14 @@
 # Backend de Supermercado - Node.js + Express + PostgreSQL
 
 ## Integrantes
-- Nombre completo 1
-- Nombre completo 2
-- Nombre completo 3
-- Nombre completo 4
-
+Juan Jose Loaiza Gutierrez
+Willfran Alexander Castro Muñoz
+Juan Jose Pinzon Hernandez
 ## Responsabilidades
-- Integrante 1: configuración inicial del proyecto y conexión a base de datos.
-- Integrante 2: modelos Sequelize y relaciones.
-- Integrante 3: controladores, validaciones y lógica de negocio.
-- Integrante 4: documentación Swagger, pruebas y README.
+- Integrante 1,2,3: configuración inicial del proyecto y conexión a base de datos.
+- Integrante 1,2,3: modelos Sequelize y relaciones.
+- Integrante 1,2,3: controladores, validaciones y lógica de negocio.
+- Integrante 1,2,3: documentación Swagger, pruebas y README.
 
 ## Descripción
 Este proyecto implementa una API REST para la gestión de un supermercado usando arquitectura MVC estricta. Permite administrar productos, proveedores, usuarios, ventas y detalle de ventas.
